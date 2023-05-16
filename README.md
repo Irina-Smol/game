@@ -1,6 +1,6 @@
 # UNDERWATER ADVENTURE
 
-Игра, написанная на Python с использованием игровой библиотеки Pygame
+Игра, написанная на Python с использованием игровой библиотеки Pygame.
 
 Youtube https://www.youtube.com/watch?v=KBQZcSakYrc
 
