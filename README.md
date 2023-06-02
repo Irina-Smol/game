@@ -19,3 +19,7 @@ Youtube https://www.youtube.com/watch?v=KBQZcSakYrc
 ![1](https://github.com/Irina-Smol/game/assets/112115002/ebe79706-b7fb-47bc-a3ba-82a58fb265ae)
 
 4. Добавление анимации движения
+
+5. Оживление фона
+
+6. Создание врагов
